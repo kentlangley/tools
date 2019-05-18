@@ -54,15 +54,15 @@ One time per Fastrack
 
 ## Rules for Valid Objections
 
-- Would this cause harm to the organization or its associated people?
-- Would this harm, obviate or dramatically shift any core or delivery team able to deliver?
-- Would this move us BACKWARDS instead of forward as an organization and team?
-- Would trying this involve undue risk (some risk is fine, too much is not)?
+- Would this cause harm?
+- Would this stop someone else from deliving?
+- Would this set us back?
+- Would this be too risky? A little is fine and good. Too much is not.
 
 ## CLOSE MEETING
 Reflection and insight about the meeting - Each person briefly shares anything they deem pertinent, no discussion, the facilitator will officially close the meeting and end the conference.
 
---
+## Document License
 This work is licensed CC BY 4.0 by Kent Langley at www.kentlangley.com. As such, you are free to Share — copy and redistribute the material in any medium or format. Your are free to adapt — remix, transform, and build upon the material for any purpose, even commercially under the following terms:
 
 ## Attribution
