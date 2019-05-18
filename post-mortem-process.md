@@ -8,15 +8,15 @@ This is a working meeting. It helps us make sure we capture any and all feedback
 
 ## Result
 - Everyone is heard
-- Feedback goes to the Fastrack Product team for prioritization and potential inclusion
+- Feedback goes to the project or product team for inclusion in backlog and prioritization
 
-## Day
+## Day (when to have this meeting)
 
-Varies. Should happen within 2-4 weeks of closing a Fastrack but after any payments are distributed.
+Should happen within 1 weeks of a project, experiment, or process ending.
 
 ## Duration
 
-90 Minutes
+30-90 Minutes
 
 ## Recorded (Y/N)
 
@@ -24,13 +24,11 @@ Yes
 
 ## Frequency
 
-One time per Fastrack
+One time per project/experiment
 
 ## Participants/ Invitees
 
-- All Team members
-- Curator (as facilitator)
-- FTI Product team members
+As many Team members as possible (within reason for meeting length)
 
 ## Open Meeting
 - House Keeping, Rules, and Roles
