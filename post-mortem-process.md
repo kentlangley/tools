@@ -46,8 +46,8 @@ As many Team members as possible (within reason for meeting length)
 3. **Reaction Round** - Everyone speaks, one at a time, except proposer. No discussion. Facilitator will rotate through each person. No reaction is a valid response.
 4. **Proposer to Amend & Clarify** - Proposer only, can optionally clarify intent, or amend proposal.
 5. **Objections** - Facilitator asks, “Do you see a reason why adopting this proposal causes harm or moves us backwards? Objection or no objection?”
-	6. **If No Objections** the proposal is adopted and moved to product backlog for prioritization and eventual implementation as capacity allows.
-	7. **If Yes Objections**, One Objection at a time. Objections are stated, tested, and captured one at a time without discussion. The goal is to craft an amended proposal that would not cause the Objection, but still addresses the proposer’s tension.
+	a. **If No Objections** the proposal is adopted and moved to product backlog for prioritization and eventual implementation as capacity allows.
+	b. **If Yes Objections**, One Objection at a time. Objections are stated, tested, and captured one at a time without discussion. The goal is to craft an amended proposal that would not cause the Objection, but still addresses the proposer’s tension.
 8. **Repeat Objection Round Until** no valid objections are raised
 
 ## Rules for Valid Objections
