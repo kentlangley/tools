@@ -1,1 +1,258 @@
+/*
+Roam CSS Tags
+Day to Day Notes Management
 
+Created by Kent Langley Twitter @kentlangley
+Adapted from Tags Shared by Beau Haan Twitter @beauhaan
+*/
+
+/*
+Meet tag
+Used for tracking meetings day to day
+*/
+
+#[[Meet]]
+
+span.rm-page-ref[data-tag="Meet"] 
+{ background-color:  #1877F2;
+  background-size: 100%;
+  color: #FFFFFF;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 3px 0 0 3px;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}
+
+span.rm-page-ref[data-tag="Meet"] + span[data-link-title] 
+{ background: #1DA1F21E !important;
+  color: #F5F8FA !important;
+  padding: 3px 5px 3px 15px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 400;
+  border-radius: 0 3px 3px 0;
+  margin-left: -5px;
+}
+
+span.rm-page-ref[data-tag="Meet"]:after, 
+span.rm-page-ref[data-tag="Meet"]:before 
+{ left: 100%;
+  top: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Meet"]:after 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #1877F2;
+  border-width: 10px;
+  margin-top: -10px;
+}
+
+span.rm-page-ref[data-tag="Meet"]:before 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #1877F2;
+  border-width: 10px;
+  margin-top: -10px;
+}```
+
+/*
+Opportunity tag
+used for tracking inbound business opportunities
+*/
+
+#[[Opportunity]]
+
+span.rm-page-ref[data-tag="Opportunity"] 
+{ background-color:  #CDDC39;
+  background-size: 100%;
+  color: #FFFFFF;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 3px 0 0 3px;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}
+
+span.rm-page-ref[data-tag="Opportunity"] + span[data-link-title] 
+{ background: #1DA1F21E !important;
+  color: #F5F8FA !important;
+  padding: 3px 5px 3px 15px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 400;
+  border-radius: 0 3px 3px 0;
+  margin-left: -5px;
+}
+
+span.rm-page-ref[data-tag="Opportunity"]:after, 
+span.rm-page-ref[data-tag="Opportunity"]:before 
+{ left: 100%;
+  top: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="Opportunity"]:after 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #CDDC39;
+  border-width: 10px;
+  margin-top: -10px;
+}
+
+span.rm-page-ref[data-tag="Opportunity"]:before 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #CDDC39;
+  border-width: 10px;
+  margin-top: -10px;
+}```
+
+/*
+next tag
+Used to track anything I think of that I need to talk to someone about next time I speak with them
+*/
+
+#[[next]]
+
+span.rm-page-ref[data-tag="next"] 
+{ background-color:  #E91E63;
+  background-size: 100%;
+  color: #FFFFFF;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 3px 0 0 3px;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}
+
+span.rm-page-ref[data-tag="next"] + span[data-link-title] 
+{ background: #1DA1F21E !important;
+  color: #F5F8FA !important;
+  padding: 3px 5px 3px 15px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 400;
+  border-radius: 0 3px 3px 0;
+  margin-left: -5px;
+}
+
+span.rm-page-ref[data-tag="next"]:after, 
+span.rm-page-ref[data-tag="next"]:before 
+{ left: 100%;
+  top: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="next"]:after 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #E91E63;
+  border-width: 10px;
+  margin-top: -10px;
+}
+
+span.rm-page-ref[data-tag="next"]:before 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #E91E63;
+  border-width: 10px;
+  margin-top: -10px;
+}```
+
+/*
+idea tag
+used for tracking ideas when they come up
+*/
+
+#[[idea]]
+
+span.rm-page-ref[data-tag="idea"] 
+{ background-color:  #00BCD4;
+  background-size: 100%;
+  color: #FFFFFF;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 3px 0 0 3px;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}
+
+span.rm-page-ref[data-tag="idea"] + span[data-link-title] 
+{ background: #1DA1F21E !important;
+  color: #F5F8FA !important;
+  padding: 3px 5px 3px 15px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 400;
+  border-radius: 0 3px 3px 0;
+  margin-left: -5px;
+}
+
+span.rm-page-ref[data-tag="idea"]:after, 
+span.rm-page-ref[data-tag="idea"]:before 
+{ left: 100%;
+  top: 50%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+span.rm-page-ref[data-tag="idea"]:after 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #00BCD4;
+  border-width: 10px;
+  margin-top: -10px;
+}
+
+span.rm-page-ref[data-tag="idea"]:before 
+{ border-color: rgba(255,255,255,0);
+  border-left-color: #00BCD4;
+  border-width: 10px;
+  margin-top: -10px;
+}```
+    
+/*
+Pending Note
+Used for tagging when I start something but can't finish for any reason
+*/
+
+#[[Pending Note]]
+        - ```css
+span.rm-page-ref[data-tag="Pending Note"] 	
+{ background: #FF0000;
+  background-size: 100%;
+  color: #000;
+  padding: 2px 5px 2px 5px;
+  font-size: 13px;
+  line-height: 1em;
+  font-weight: 500;
+  border-radius: 5px 5px 5px 5px;
+  border-style: solid;
+  border-color: #f21da140;
+  border-width: thin;
+  position:relative;
+  box-shadow: 0px 1px 3px -1px #000000, 0px -1px 5px  #DFDFDF;
+}```
