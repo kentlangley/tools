@@ -9,9 +9,8 @@ Adapted from Tags Shared by Beau Haan Twitter @beauhaan
 /*
 Meet tag
 Used for tracking meetings day to day
+Recommended Usage: #[[Meet]]
 */
-
-#[[Meet]]
 
 span.rm-page-ref[data-tag="Meet"] 
 { background-color:  #1877F2;
@@ -66,9 +65,8 @@ span.rm-page-ref[data-tag="Meet"]:before
 /*
 Opportunity tag
 used for tracking inbound business opportunities
+Recommended Usage: #[[Opportunity]]
 */
-
-#[[Opportunity]]
 
 span.rm-page-ref[data-tag="Opportunity"] 
 { background-color:  #CDDC39;
@@ -123,9 +121,8 @@ span.rm-page-ref[data-tag="Opportunity"]:before
 /*
 next tag
 Used to track anything I think of that I need to talk to someone about next time I speak with them
+Recommended Usage: #[[next]]
 */
-
-#[[next]]
 
 span.rm-page-ref[data-tag="next"] 
 { background-color:  #E91E63;
@@ -180,9 +177,8 @@ span.rm-page-ref[data-tag="next"]:before
 /*
 idea tag
 used for tracking ideas when they come up
+Recommended Usage: #[[idea]]
 */
-
-#[[idea]]
 
 span.rm-page-ref[data-tag="idea"] 
 { background-color:  #00BCD4;
@@ -237,10 +233,9 @@ span.rm-page-ref[data-tag="idea"]:before
 /*
 Pending Note
 Used for tagging when I start something but can't finish for any reason
+Recommended Usage: #[[Pending Note]]
 */
 
-#[[Pending Note]]
-        - ```css
 span.rm-page-ref[data-tag="Pending Note"] 	
 { background: #FF0000;
   background-size: 100%;
