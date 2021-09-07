@@ -10,7 +10,7 @@ The meeting will be facilitated by one of the team members. Facilitation is a le
 ## Meeting Agenda & Process
 | Time | Section  | Description |
 |:--|:--|:--|
-| 1 - 5m | Check-In | Say something nice about the weather|
+| 1 - 5m | Check-In | Get Present. Spend 1-2 minutes in reflection of current thoughts, feelings, moods.|
 | 6 - 35m | Project Updates | Each Person, one at a time, updates the team on their projects. The facilitator will kick things off. Each person will give their updates, ask if there are any questions, when there are no more clarifying questions, they will pick someone else to update next. |
 | 36 + m | Dynamic Agenda | Each person logs, in 3-4 words per item, each item they wish to move forward. Facilitator works through the list in the most efficient manner possible to to exactly one thing. Get to the next best possible step for that task to resolve it for the person raising the items to THEIR satisfaction. |
 
